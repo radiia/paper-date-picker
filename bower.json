@@ -15,10 +15,7 @@
   "main": "paper-date-picker.html",
   "license": "MIT",
   "homepage": "http://bendavis78.github.io/paper-date-picker/",
-  "ignore": [
-    "/.*",
-    "/tests/"
-  ],
+  "ignore": [],
   "dependencies": {
     "moment": "~2.8.3",
     "polymer": "Polymer/polymer#^1.0.0",
