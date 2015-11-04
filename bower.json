@@ -10,9 +10,14 @@
     "web-components",
     "polymer",
     "datepicker",
-    "paper-date-picker"
+    "paper-datepicker"
   ],
   "main": "paper-date-picker.html",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radiia/paper-date-picker"
+  },
   "license": "MIT",
   "homepage": "http://bendavis78.github.io/paper-date-picker/",
   "ignore": [],
